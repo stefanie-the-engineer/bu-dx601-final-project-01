@@ -1,2 +1,2 @@
-# bu-dx601-final-project-01
+# bu-dx601-final-01
 
